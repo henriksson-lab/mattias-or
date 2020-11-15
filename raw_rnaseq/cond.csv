@@ -1,0 +1,25 @@
+sample,day,replicate,treatment,stimulus,strain,file,strain2
+oe_1d_rep1.fastq.gzAligned.sortedByCoord.out.bam,1,1,oe,overexpression,Or65a overexpressed,oe_1d_rep1.fastq.gz,Peb-Gal4; UAS-Or42b
+oe_1d_rep2.fastq.gzAligned.sortedByCoord.out.bam,1,2,oe,overexpression,Or65a overexpressed,oe_1d_rep2.fastq.gz,Peb-Gal4; UAS-Or42b
+oe_1d_rep3.fastq.gzAligned.sortedByCoord.out.bam,1,3,oe,overexpression,Or65a overexpressed,oe_1d_rep3.fastq.gz,Peb-Gal4; UAS-Or42b
+oe_4d_rep1.fastq.gzAligned.sortedByCoord.out.bam,4,1,oe,overexpression,Or65a overexpressed,oe_4d_rep1.fastq.gz,Peb-Gal4; UAS-Or42b
+oe_4d_rep2.fastq.gzAligned.sortedByCoord.out.bam,4,2,oe,overexpression,Or65a overexpressed,oe_4d_rep2.fastq.gz,Peb-Gal4; UAS-Or42b
+oe_4d_rep3.fastq.gzAligned.sortedByCoord.out.bam,4,3,oe,overexpression,Or65a overexpressed,oe_4d_rep3.fastq.gz,Peb-Gal4; UAS-Or42b
+orco_14d_rep1.fastq.gzAligned.sortedByCoord.out.bam,14,1,orco,none,Orco KO,orco_14d_rep1.fastq.gz,Orco-/-
+orco_14d_rep2.fastq.gzAligned.sortedByCoord.out.bam,14,2,orco,none,Orco KO,orco_14d_rep2.fastq.gz,Orco-/-
+orco_14d_rep3.fastq.gzAligned.sortedByCoord.out.bam,14,3,orco,none,Orco KO,orco_14d_rep3.fastq.gz,Orco-/-
+orco_1d_rep1.fastq.gzAligned.sortedByCoord.out.bam,1,1,orco,none,Orco KO,orco_1d_rep1.fastq.gz,Orco-/-
+orco_1d_rep2.fastq.gzAligned.sortedByCoord.out.bam,1,2,orco,none,Orco KO,orco_1d_rep2.fastq.gz,Orco-/-
+orco_1d_rep3.fastq.gzAligned.sortedByCoord.out.bam,1,3,orco,none,Orco KO,orco_1d_rep3.fastq.gz,Orco-/-
+orco_4d_rep1.fastq.gzAligned.sortedByCoord.out.bam,4,1,orco,none,Orco KO,orco_4d_rep1.fastq.gz,Orco-/-
+orco_4d_rep2.fastq.gzAligned.sortedByCoord.out.bam,4,2,orco,none,Orco KO,orco_4d_rep2.fastq.gz,Orco-/-
+orco_4d_rep3.fastq.gzAligned.sortedByCoord.out.bam,4,3,orco,none,Orco KO,orco_4d_rep3.fastq.gz,Orco-/-
+wt_14d_rep1.fastq.gzAligned.sortedByCoord.out.bam,14,1,wt,none,WT,wt_14d_rep1.fastq.gz,wt
+wt_14d_rep2.fastq.gzAligned.sortedByCoord.out.bam,14,2,wt,none,WT,wt_14d_rep2.fastq.gz,wt
+wt_1d_rep1.fastq.gzAligned.sortedByCoord.out.bam,1,1,wt,none,WT,wt_1d_rep1.fastq.gz,wt
+wt_1d_rep2.fastq.gzAligned.sortedByCoord.out.bam,1,2,wt,none,WT,wt_1d_rep2.fastq.gz,wt
+wt_1d_rep3.fastq.gzAligned.sortedByCoord.out.bam,1,3,wt,none,WT,wt_1d_rep3.fastq.gz,wt
+wt_4d_rep1.fastq.gzAligned.sortedByCoord.out.bam,4,1,wt,none,WT,wt_4d_rep1.fastq.gz,wt
+wt_4d_rep2.fastq.gzAligned.sortedByCoord.out.bam,4,2,wt,none,WT,wt_4d_rep2.fastq.gz,wt
+wt_4d_rep3.fastq.gzAligned.sortedByCoord.out.bam,4,3,wt,none,WT,wt_4d_rep3.fastq.gz,wt
+xbp1kd.fastq.gzAligned.sortedByCoord.out.bam,4,3,xbp1kd,none,XBP1KD,xbp1kd.fastq.gz,wt

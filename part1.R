@@ -105,6 +105,7 @@ intgene$isin <- intgene$symbol %in% gene_anno$symbol
 gene_anno$is_housekeeping <- gene_anno$symbol %in% intgene$symbol
 
 gene_anno$is_synapse_osn <- gene_anno$symbol %in% intgene$symbol[intgene$category %in% c("newsynapse","olfactory sensory neuron markers")]
+gene_anno$is_synapse <- gene_anno$symbol %in% intgene$symbol[intgene$category %in% c("newsynapse")]
 gene_anno$is_cilia <- gene_anno$symbol %in% intgene$symbol[intgene$category %in% c("cilia")]
 
 gene_anno$is_trichoids <- gene_anno$symbol %in% intgene$symbol[intgene$category %in% c("trichoids")]
